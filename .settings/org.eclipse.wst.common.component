@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="springmvc">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <property name="java-output-path" value="/springmvc/build/classes"/>
+        <property name="context-root" value="springmvc_pig_banking"/>
+    </wb-module>
+</project-modules>
